@@ -5,6 +5,9 @@ export default {
     extend: {
       fontFamily: {
         sans: ['Mulish', 'sans-serif']
+      },
+      backgroundImage: {
+        gradient: 'linear-gradient(96deg, #343193 0%, #302C63 99.68%)'
       }
     }
   },
